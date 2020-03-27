@@ -2,3 +2,8 @@
 **/.idea/*
 .DS_Store
 **/.ipynb_checkpoints/*
+mch_categories.tsv
+products.txt
+transactions.txt
+platform-take-home-test.pdf
+ld-ds-take-home-service-account.json
